@@ -2,7 +2,7 @@
 Add markdown to any ASP.NET MVC view
 
 Just add the [MarkdownFilter] attribute to any controller
-or action and everything between &lt;md&gt; and &lt/md&gt
+or action and everything between &lt;md&gt; and &lt;/md&gt;
 will be processed using the StackOverflow markdown processor
 
 If you are not using MVC or want to control when markdown processing 
